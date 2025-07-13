@@ -1,0 +1,10 @@
+ASS Clan skin by Michael Patrick Clark, aka Sigma-X. Sigmax01@aol.com
+
+Place files in the valve\models\player\ass found in the Half Life folder.  The folder needs 
+to be named the same as the model, or it won't work right.
+
+This is my first skin for Half Life, and is a modified Barney, with black pants with teamcolor flames, and the name ASS on front and back.  He also has sunglasses and a scar.
+
+ASS Clan:
+www.fortunecity.com/underworld/darkforces/777/
+       We put the arse into arsenal.

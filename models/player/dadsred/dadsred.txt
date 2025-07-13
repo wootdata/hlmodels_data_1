@@ -1,0 +1,12 @@
+Skinner: [DADS]SpeedRacer
+Skin Name: dadsred
+Model: ???
+Date: October 5, 2002
+
+Character Info:
+This skin was created for the DADS clan to be used for their matches. 
+
+Install Notes:
+Put the files in a directory called "dadsred" in your half-life/valve/models/player/dadsred directory.
+
+http://www.dadsclan.com
