@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -87,6 +88,7 @@
 			"type": 8
 		}
 	],
+	"date": 1592663027,
 	"events": [
 		{
 			"event": 2001,
@@ -210,7 +212,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2386dfda54083ec59439d236c7b1a417",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "shephard.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

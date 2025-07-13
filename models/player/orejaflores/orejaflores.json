@@ -38,6 +38,7 @@
 			"name": "hair"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1643666724,
 	"events": [
 		{
 			"event": 2001,
@@ -181,7 +183,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f31abe482ae7b27d1b082aa03e1f31ae",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "orejaFlores.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

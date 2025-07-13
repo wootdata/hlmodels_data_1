@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1660163955,
 	"events": [
 		{
 			"event": 2001,
@@ -181,7 +183,11 @@
 	],
 	"id": 1414743113,
 	"md5": "68be0d28c2511c5feb44e94638e8d8d3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "EsqueletoVenezolano.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

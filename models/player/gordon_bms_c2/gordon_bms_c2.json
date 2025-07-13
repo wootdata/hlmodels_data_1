@@ -58,6 +58,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -100,6 +101,7 @@
 			"type": 32
 		}
 	],
+	"date": 1512266449,
 	"events": [
 		{
 			"event": 2001,
@@ -223,7 +225,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4ea813370c4e7f4618d0915254897bab",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\ELIZABETH MENA\\Favorites\\Desktop\\gordon - copia\\gordon.d",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

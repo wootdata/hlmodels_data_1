@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 915537788,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "87985ecc05c8610c19405f111bc7203a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c:/game/halflife/valve/models/player/custom/highcount/jobk9/jobk$",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

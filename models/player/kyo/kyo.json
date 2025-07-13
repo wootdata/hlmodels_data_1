@@ -28,6 +28,7 @@
 			"name": "Hunk4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1379285041,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "59605a75ff583a2915c6a30b27b34cf0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "newrpd.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

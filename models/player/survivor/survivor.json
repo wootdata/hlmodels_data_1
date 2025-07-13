@@ -88,6 +88,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -122,6 +123,7 @@
 			"type": 8
 		}
 	],
+	"date": 1447005436,
 	"events": [
 		{
 			"event": 2001,
@@ -357,7 +359,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a1fc0ab3bb114fd8f1c5816d0dae3e4c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

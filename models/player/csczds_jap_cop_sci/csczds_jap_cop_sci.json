@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1607064710,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2ee8091b11c38e6f9ca023d758c1b710",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hgrunt60.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
