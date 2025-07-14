@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 33,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 33,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 33,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}
@@ -20,19 +20,14 @@
 		{
 			"models": [
 				{
-					"name": "caleb4",
-					"polys": 2613,
-					"verts": 1246
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
+					"name": "hostage2",
+					"polys": 591,
+					"verts": 315
+				}, 
 				{
-					"name": "caleb_eyes",
-					"polys": 72,
-					"verts": 50
+					"name": "hostage2",
+					"polys": 591,
+					"verts": 315
 				}
 			],
 			"name": "body"
@@ -49,7 +44,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 21,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -57,7 +52,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 22,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -65,7 +60,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 23,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -73,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1351303166,
+	"date": 1407715228,
 	"events": [
 		{
 			"event": 2001,
@@ -182,10 +177,10 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "df7f76884ff33d6180d119310be4ed21",
+	"md5": "4c4c885414ddfb7865b66af857001ca1",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "caleb.mdl",
+	"name": "D:\\mod\\modterra01\\models\\hostage\\player\\hostage2.mdl",
 	"preview": false,
 	"readme": false,
 	"seq_groups": "1",
@@ -193,7 +188,7 @@
 		{
 			"fps": 14.000000,
 			"frames": 31,
-			"name": "Koshak_convert_HL"
+			"name": "look_idle"
 		}, 
 		{
 			"fps": 14.000000,
@@ -576,7 +571,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 1087460,
+	"size": 373464,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -615,104 +610,56 @@
 			"parent": 1
 		}, 
 		{
-			"name": "Cbul",
-			"parent": 1
-		}, 
-		{
-			"name": "cbll",
-			"parent": 9
-		}, 
-		{
-			"name": "cbur",
-			"parent": 1
-		}, 
-		{
-			"name": "cblr",
-			"parent": 11
-		}, 
-		{
-			"name": "cful",
-			"parent": 1
-		}, 
-		{
-			"name": "cfll",
-			"parent": 13
-		}, 
-		{
-			"name": "cfur",
-			"parent": 1
-		}, 
-		{
-			"name": "cflr",
-			"parent": 15
-		}, 
-		{
-			"name": "cblwl",
-			"parent": 10
-		}, 
-		{
-			"name": "cbrwl",
-			"parent": 12
-		}, 
-		{
-			"name": "cbum",
-			"parent": 1
-		}, 
-		{
-			"name": "cbmm",
-			"parent": 19
-		}, 
-		{
 			"name": "Bip01 Spine1",
 			"parent": 8
 		}, 
 		{
 			"name": "Bip01 Spine2",
-			"parent": 21
+			"parent": 9
 		}, 
 		{
 			"name": "Bip01 Spine3",
-			"parent": 22
+			"parent": 10
 		}, 
 		{
 			"name": "Bip01 Neck",
-			"parent": 23
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 Head",
-			"parent": 24
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm",
-			"parent": 24
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 26
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 27
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 28
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 R Arm",
-			"parent": 24
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 30
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 31
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 32
+			"parent": 20
 		}
 	],
 	"skins": 1,
@@ -720,39 +667,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "LEGS_MAP3.bmp",
-			"width": 512
+			"height": 274,
+			"name": "Hostage_Template2.BMP",
+			"width": 452
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "HEAD_MAP3.bmp",
-			"width": 640
-		}, 
-		{
-			"flags": 64,
-			"height": 256,
-			"name": "HAIR_MAP7.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "HAT_MAPdirty.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 64,
-			"height": 512,
-			"name": "blackcottontrench3.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 32,
-			"height": 64,
-			"name": "GLOW_MAP5.bmp",
-			"width": 64
+			"height": 127,
+			"name": "Face-Unwrap2.bmp",
+			"width": 136
 		}
 	],
 	"version": 10
