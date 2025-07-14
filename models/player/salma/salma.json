@@ -175,6 +175,7 @@
 	"md5": "35c87263878d16f58611fa7da7ec8e76",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "models/player/salma/salma.mdl",
 	"preview": true,
 	"readme": false,

@@ -175,6 +175,7 @@
 	"md5": "723fc564cc685fc431d7dffc61418077",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/pred/pred.mdl",
 	"preview": true,
 	"readme": false,

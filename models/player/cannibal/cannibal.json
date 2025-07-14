@@ -180,6 +180,7 @@
 	"md5": "f06b632e6015cc2924c2e3c0f4fe63fe",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/cannibal/cannibal.mdl",
 	"preview": true,
 	"readme": false,

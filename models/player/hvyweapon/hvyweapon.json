@@ -250,6 +250,7 @@
 	"md5": "d1e0e73c4b3c04a18bd5cda3e63af78f",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "tfc/models/player/hvyweapon/hvyweapon.mdl",
 	"preview": true,
 	"readme": false,
