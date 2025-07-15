@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gohan_ad
+Source Model Hash : 52dc1f9517ef7e969b17e45df4a7abef
+Source Model Date : 1445432204 (2015/10/21)
+
+Ported Model Name : gohan_ad_v1sc
+Ported Model Hash : 245b29da5cda7e9acd2b31680762ae30
+Ported Model Date : 1752491731 (2025/07/14)

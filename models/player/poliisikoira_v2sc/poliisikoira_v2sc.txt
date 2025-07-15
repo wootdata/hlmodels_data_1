@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : poliisikoira_v2
+Source Model Hash : 8ad7893c7f45c594dbf4e38d4e29249f
+Source Model Date : 1643885616 (2022/02/03)
+
+Ported Model Name : poliisikoira_v2sc
+Ported Model Hash : 33ecd4245b5a64066d3b4f10dd5aa402
+Ported Model Date : 1752492162 (2025/07/14)

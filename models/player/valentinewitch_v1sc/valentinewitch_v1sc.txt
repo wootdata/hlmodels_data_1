@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : valentinewitch
+Source Model Hash : 10cbae6b02ba881d107ce4fd0b10e92d
+Source Model Date : 1654719591 (2022/06/08)
+
+Ported Model Name : valentinewitch_v1sc
+Ported Model Hash : b316b408b13036ec0f4974259ed060c5
+Ported Model Date : 1752492486 (2025/07/14)

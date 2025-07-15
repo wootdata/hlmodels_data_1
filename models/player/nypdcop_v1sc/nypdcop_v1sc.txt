@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nypdcop
+Source Model Hash : 63808ccf590042c59d7ff16bb150509c
+Source Model Date : 1265656849 (2010/02/08)
+
+Ported Model Name : nypdcop_v1sc
+Ported Model Hash : 99c6a98c7a8eb003f3efadeaa5154352
+Ported Model Date : 1752492111 (2025/07/14)

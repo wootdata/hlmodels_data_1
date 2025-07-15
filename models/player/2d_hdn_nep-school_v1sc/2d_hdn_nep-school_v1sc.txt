@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_hdn_neptune-school
+Source Model Hash : b78cd3bc6fe613fde34e652e8220ac11
+Source Model Date : 1553684620 (2019/03/27)
+
+Ported Model Name : 2d_hdn_nep-school_v1sc
+Ported Model Hash : e8f9a195eaf9249a94288d5372b93605
+Ported Model Date : 1752491310 (2025/07/14)

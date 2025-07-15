@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gunman_soldier
+Source Model Hash : 28f541a169207f0f56a2daee3eba40ef
+Source Model Date : 1386622876 (2013/12/09)
+
+Ported Model Name : gunman_soldier_v1sc
+Ported Model Hash : 8580a7a12c396e75a16a1377d735b99f
+Ported Model Date : 1752491756 (2025/07/14)

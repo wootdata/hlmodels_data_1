@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ahl_maggie
+Source Model Hash : 0eb0ada155a77c16f5311ab7c477c8d4
+Source Model Date : 1700905965 (2023/11/25)
+
+Ported Model Name : ahl_maggie_v1sc
+Ported Model Hash : a9ea3bf7a451eda8b90cc59e17056a03
+Ported Model Date : 1752491343 (2025/07/14)

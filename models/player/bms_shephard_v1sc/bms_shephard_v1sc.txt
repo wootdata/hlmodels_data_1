@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bms_shephard
+Source Model Hash : 8c957631adf7a57f4f46bfb2e8f4ddc9
+Source Model Date : 1636964024 (2021/11/15)
+
+Ported Model Name : bms_shephard_v1sc
+Ported Model Hash : aa01cde0eb4530f6cb4bb4e9d3d46bb4
+Ported Model Date : 1752491440 (2025/07/14)

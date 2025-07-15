@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : evilred_v2
+Source Model Hash : 5aa4c4cfb72b67c13d87094578bdbac3
+Source Model Date : 1542431134 (2018/11/16)
+
+Ported Model Name : evilred_v2sc
+Ported Model Hash : cf5f0808e6be37167ec5f03ed147a10a
+Ported Model Date : 1752491640 (2025/07/14)

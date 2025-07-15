@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ahl_tacteq
+Source Model Hash : ab20a6b4f6fdf9b31dcf5dc6e3895cfc
+Source Model Date : 1700907623 (2023/11/25)
+
+Ported Model Name : ahl_tacteq_v1sc
+Ported Model Hash : 1014a292c616241a87901cd651ba174a
+Ported Model Date : 1752491345 (2025/07/14)

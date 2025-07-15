@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mha_uraraka-visor
+Source Model Hash : 35caf56731ac5b20b4aa2d4d6a57df21
+Source Model Date : 1590298641 (2020/05/23)
+
+Ported Model Name : mha_uraraka-visor_v1sc
+Ported Model Hash : ee42bd1f3560a86ab7d0500d52f0edc6
+Ported Model Date : 1752492011 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mona_notail
+Source Model Hash : 1647b0bbe6f076d83df11e01d98f0c6a
+Source Model Date : 1230541187 (2008/12/29)
+
+Ported Model Name : mona_notail_v1sc
+Ported Model Hash : 7c1eab82546f281f4222a01e62150d02
+Ported Model Date : 1752492040 (2025/07/14)

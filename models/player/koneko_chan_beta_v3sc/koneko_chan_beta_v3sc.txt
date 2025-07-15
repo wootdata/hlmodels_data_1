@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : koneko_chan_beta_v3
+Source Model Hash : 28c08eab7fa0a6960d993ddbf7f6af1e
+Source Model Date : 1682730440 (2023/04/28)
+
+Ported Model Name : koneko_chan_beta_v3sc
+Ported Model Hash : e945975c45acb6d4ccf5cfebe9a299f7
+Ported Model Date : 1752491908 (2025/07/14)

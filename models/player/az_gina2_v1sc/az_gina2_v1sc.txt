@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : az_gina2
+Source Model Hash : c81979bdabc31eb5588ad453e866a51b
+Source Model Date : 1636764716 (2021/11/12)
+
+Ported Model Name : az_gina2_v1sc
+Ported Model Hash : d3b35ab3869ae2f8c471c541e60305f3
+Ported Model Date : 1752491393 (2025/07/14)

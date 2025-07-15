@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_ys_yandere_insane
+Source Model Hash : bf4c6df8b1323b36b15fe80c9d024847
+Source Model Date : 1553887002 (2019/03/29)
+
+Ported Model Name : 2d_ys_yandere2_v1sc
+Ported Model Hash : c51b2a5755df75b284cb78f0afe18ace
+Ported Model Date : 1752491321 (2025/07/14)

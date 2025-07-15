@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mw2_tf141_1
+Source Model Hash : 012a337415d7a473e1f85cc3acc9fc64
+Source Model Date : 1278746030 (2010/07/10)
+
+Ported Model Name : mw2_tf141_1_v1sc
+Ported Model Hash : 4705fad1775a7f3772c4c1da1364bb06
+Ported Model Date : 1752492056 (2025/07/14)

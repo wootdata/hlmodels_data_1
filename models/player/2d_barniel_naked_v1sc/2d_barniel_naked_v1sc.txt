@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_barniel_naked
+Source Model Hash : 9fdc5b90382265533a641154b1a56520
+Source Model Date : 1553673852 (2019/03/27)
+
+Ported Model Name : 2d_barniel_naked_v1sc
+Ported Model Hash : c9088e90b9c5077c36c0e097e98cc486
+Ported Model Date : 1752491305 (2025/07/14)

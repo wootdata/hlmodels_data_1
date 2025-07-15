@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : trollsnark_v2
+Source Model Hash : b4c2521185a506e4ab783197c4a48bef
+Source Model Date : 1583316809 (2020/03/04)
+
+Ported Model Name : trollsnark_v2sc
+Ported Model Hash : 21c216252dcd3dcd1f77192abde32881
+Ported Model Date : 1752492459 (2025/07/14)

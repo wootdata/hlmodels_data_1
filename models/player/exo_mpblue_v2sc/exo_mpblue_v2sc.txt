@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : exo_mpblue_v2
+Source Model Hash : ca9d2046375c87fb88469967518f1114
+Source Model Date : 1583832075 (2020/03/10)
+
+Ported Model Name : exo_mpblue_v2sc
+Ported Model Hash : bcf6e3caf797b410a04af5a806cea68b
+Ported Model Date : 1752491641 (2025/07/14)

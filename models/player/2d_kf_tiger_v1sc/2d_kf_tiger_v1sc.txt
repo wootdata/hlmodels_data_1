@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_kf_tiger
+Source Model Hash : 4faf304506dd18cefe6459d7285c86fa
+Source Model Date : 1552562514 (2019/03/14)
+
+Ported Model Name : 2d_kf_tiger_v1sc
+Ported Model Hash : 84aa537d034534b7c2e2df651fa97476
+Ported Model Date : 1752491313 (2025/07/14)

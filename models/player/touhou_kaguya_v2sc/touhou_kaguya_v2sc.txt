@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_kaguya_v2
+Source Model Hash : d257b42b37dc173f0f5ad17b87fbc1ad
+Source Model Date : 1522360168 (2018/03/29)
+
+Ported Model Name : touhou_kaguya_v2sc
+Ported Model Hash : f0dd479432aa0aae4b3bf68145c78dda
+Ported Model Date : 1752492439 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mrmeat
+Source Model Hash : 392ce22a0130db7569ef7f9c3bebffce
+Source Model Date : 1688762930 (2023/07/07)
+
+Ported Model Name : mrmeat_v1sc
+Ported Model Hash : afab0644afdd6ad22795370518d2c83f
+Ported Model Date : 1752492045 (2025/07/14)

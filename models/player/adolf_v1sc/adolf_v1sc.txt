@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : adolf
+Source Model Hash : f7bdceea67394574d7f626c8e9d27183
+Source Model Date : 1431761406 (2015/05/16)
+
+Ported Model Name : adolf_v1sc
+Ported Model Hash : 0e823e928e6d6f774a6026567fd03ae1
+Ported Model Date : 1752491332 (2025/07/14)

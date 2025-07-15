@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ms_zaku-ii
+Source Model Hash : 1af9ea3764cc77db5fbbfeca3df52273
+Source Model Date : 1582343193 (2020/02/21)
+
+Ported Model Name : ms_zaku-ii_v1sc
+Ported Model Hash : bb41d6bb4a5856a00a45af20e3c55c9c
+Ported Model Date : 1752492047 (2025/07/14)

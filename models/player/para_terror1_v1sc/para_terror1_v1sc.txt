@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : para_terror1
+Source Model Hash : d4543820fd3816cb552c44b64f15ba8e
+Source Model Date : 1265729707 (2010/02/09)
+
+Ported Model Name : para_terror1_v1sc
+Ported Model Hash : 772ece3d50faf2e89e72b1c8ef504373
+Ported Model Date : 1752492147 (2025/07/14)

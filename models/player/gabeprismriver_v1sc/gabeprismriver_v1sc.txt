@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gabeprismriver
+Source Model Hash : 980e41da0e2dce5c2f42bc7e20edb461
+Source Model Date : 1292366302 (2010/12/14)
+
+Ported Model Name : gabeprismriver_v1sc
+Ported Model Hash : 92a496012c5470c23fc58bf1b9064734
+Ported Model Date : 1752491666 (2025/07/14)

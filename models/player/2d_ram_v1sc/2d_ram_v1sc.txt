@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_ram
+Source Model Hash : f314d5d40e499c2e17833da96296cbce
+Source Model Date : 1553686530 (2019/03/27)
+
+Ported Model Name : 2d_ram_v1sc
+Ported Model Hash : 5431baa652c8bb964bbe7cc8a1f66eea
+Ported Model Date : 1752491317 (2025/07/14)

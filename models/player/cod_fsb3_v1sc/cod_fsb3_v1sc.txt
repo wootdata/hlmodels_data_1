@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cod_fsb3
+Source Model Hash : e12e1c9888bd396691456a0ed2d0c143
+Source Model Date : 1477529080 (2016/10/26)
+
+Ported Model Name : cod_fsb3_v1sc
+Ported Model Hash : e77a89997ab0b87973a618f8c7d0d190
+Ported Model Date : 1752491495 (2025/07/14)

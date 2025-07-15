@@ -1,0 +1,16 @@
+male
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : at_hawk
+Source Model Hash : 9491bcf5e1ba417bc7d224542f8b2585
+Source Model Date : 1262712374 (2010/01/05)
+
+Ported Model Name : at_hawk_v1sc
+Ported Model Hash : d45127d9067ff30faf2eb863aa90c1ba
+Ported Model Date : 1752491388 (2025/07/14)

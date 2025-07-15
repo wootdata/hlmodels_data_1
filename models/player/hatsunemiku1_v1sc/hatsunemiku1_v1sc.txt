@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hatsunemiku1
+Source Model Hash : cb2cdbc513a8a49ce53d986b47c46cf4
+Source Model Date : 1477902861 (2016/10/31)
+
+Ported Model Name : hatsunemiku1_v1sc
+Ported Model Hash : 0109b8b8affe57b988b11d3c8d9daf71
+Ported Model Date : 1752491770 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nato-rangewoodlandfp
+Source Model Hash : 64829c735003be1877688131d3c9119d
+Source Model Date : 1265566111 (2010/02/07)
+
+Ported Model Name : nato-rangewoodfp_v1sc
+Ported Model Hash : 7f1a38e2b9dcfff4f5d1ffaa6f76d18b
+Ported Model Date : 1752492073 (2025/07/14)

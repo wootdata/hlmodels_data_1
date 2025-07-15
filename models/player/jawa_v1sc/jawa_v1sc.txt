@@ -1,0 +1,16 @@
+Compiled by GAARA54
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jawa
+Source Model Hash : 8b4f5a22cc23ab5a21591172d4e6b2d3
+Source Model Date : 1472477792 (2016/08/29)
+
+Ported Model Name : jawa_v1sc
+Ported Model Hash : aa7e918dc61e68cc568e62274bf8d65f
+Ported Model Date : 1752491859 (2025/07/14)

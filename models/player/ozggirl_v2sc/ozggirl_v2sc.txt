@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ozggirl_v2
+Source Model Hash : baede3bb92e3202794483ebff3a35a39
+Source Model Date : 1583391314 (2020/03/04)
+
+Ported Model Name : ozggirl_v2sc
+Ported Model Hash : 323f884638c9aaaa72b5f6d12724cbe5
+Ported Model Date : 1752492139 (2025/07/14)

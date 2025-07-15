@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mlc_hecu_digital
+Source Model Hash : a45eeb05b53905f137fd0569013265c5
+Source Model Date : 1266506049 (2010/02/18)
+
+Ported Model Name : mlc_hecu_digital_v1sc
+Ported Model Hash : c4879d199cf352e3d0e8b303c78cf943
+Ported Model Date : 1752492034 (2025/07/14)

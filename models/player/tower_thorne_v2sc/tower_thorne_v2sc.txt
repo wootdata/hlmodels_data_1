@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tower_thorne_v2
+Source Model Hash : 819b169259de93f1cb408a0ba0bc5618
+Source Model Date : 1583745563 (2020/03/09)
+
+Ported Model Name : tower_thorne_v2sc
+Ported Model Hash : 734470fb10beefd2b69e15a86eb3172c
+Ported Model Date : 1752492453 (2025/07/14)

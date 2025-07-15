@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bms_marrine
+Source Model Hash : a27d7c821ef8d9ec68b6db9d35b205a7
+Source Model Date : 1268060267 (2010/03/08)
+
+Ported Model Name : bms_marrine_v1sc
+Ported Model Hash : ea26ca5e58ac86b5a0c98f66c44f110c
+Ported Model Date : 1752491440 (2025/07/14)

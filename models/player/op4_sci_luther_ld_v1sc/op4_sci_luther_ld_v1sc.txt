@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : op4_sci_luther_ld
+Source Model Hash : 9e69ef4063d52fe9cf7ea463a466f35e
+Source Model Date : 1603067356 (2020/10/18)
+
+Ported Model Name : op4_sci_luther_ld_v1sc
+Ported Model Hash : 753236660233b707e37a8a240f4b6d94
+Ported Model Date : 1752492124 (2025/07/14)

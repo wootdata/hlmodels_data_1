@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : clarke
+Source Model Hash : f39e65172b56c0161d9e8bd8b40cf8b4
+Source Model Date : 1696830445 (2023/10/08)
+
+Ported Model Name : clarke_v1sc
+Ported Model Hash : 3dab5ba234bce304c1f9ac40d03b3058
+Ported Model Date : 1752491480 (2025/07/14)

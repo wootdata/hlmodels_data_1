@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_kf_shoebill
+Source Model Hash : 4d3e9b60735611959b2c5c701a898dfa
+Source Model Date : 1552562580 (2019/03/14)
+
+Ported Model Name : 2d_kf_shoebill_v1sc
+Ported Model Hash : 670c830d7ec2ef435cd47d8c05ea9654
+Ported Model Date : 1752491313 (2025/07/14)

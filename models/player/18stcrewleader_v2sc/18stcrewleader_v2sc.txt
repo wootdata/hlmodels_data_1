@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 18stcrewleader_v2
+Source Model Hash : f03d2a685c9246342a1c77102bcda5c4
+Source Model Date : 1591343341 (2020/06/05)
+
+Ported Model Name : 18stcrewleader_v2sc
+Ported Model Hash : fd07b3641b39427cb5d285d3cad6e176
+Ported Model Date : 1752491303 (2025/07/14)

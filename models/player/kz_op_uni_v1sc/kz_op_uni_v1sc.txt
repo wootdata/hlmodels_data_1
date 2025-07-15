@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kz_op_uni
+Source Model Hash : d18f8024b3ce93d52b6594e2195ff4c5
+Source Model Date : 1541883036 (2018/11/10)
+
+Ported Model Name : kz_op_uni_v1sc
+Ported Model Hash : 76077a75aa620e3f10ef3fc97b6294c3
+Ported Model Date : 1752491928 (2025/07/14)

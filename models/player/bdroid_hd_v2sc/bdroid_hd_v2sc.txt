@@ -1,0 +1,28 @@
+Authors:
+Mars Marshall
+HapSlash
+Chairwalker
+Kinja and team Yoda
+Proto
+Toonces
+
+Hacked and Complie: Napoleon
+
+Ok. They have some small errors (holding some weapons by...after all If you think you can make them better go to fpsbanana and port them your self! :D )
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bdroid_hd_v2
+Source Model Hash : 71af64ebcf4225115cb54d4fef51b185
+Source Model Date : 1579695792 (2020/01/22)
+
+Ported Model Name : bdroid_hd_v2sc
+Ported Model Hash : fd41a5c3e9bbdddc364bc193b21fa155
+Ported Model Date : 1752491422 (2025/07/14)

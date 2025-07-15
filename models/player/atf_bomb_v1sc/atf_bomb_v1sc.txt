@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : atf_bomb
+Source Model Hash : 36a5fb19328706daacc9944f80610ce9
+Source Model Date : 1425327560 (2015/03/02)
+
+Ported Model Name : atf_bomb_v1sc
+Ported Model Hash : 18345583428b6f3c51f90e3a5bc02051
+Ported Model Date : 1752491387 (2025/07/14)

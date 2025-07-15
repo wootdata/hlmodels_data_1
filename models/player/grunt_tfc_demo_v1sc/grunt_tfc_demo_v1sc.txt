@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : grunt_tfc_demo
+Source Model Hash : d9013873bd0a413d346a31d0a20c6346
+Source Model Date : 1540599746 (2018/10/26)
+
+Ported Model Name : grunt_tfc_demo_v1sc
+Ported Model Hash : c4cd86e7f4a2576ea56866bcbdbd8875
+Ported Model Date : 1752491743 (2025/07/14)

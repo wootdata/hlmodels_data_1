@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : army_infantry
+Source Model Hash : 51e2a7d64f7b83037a93e4dc3db10ef3
+Source Model Date : 1264598867 (2010/01/27)
+
+Ported Model Name : army_infantry_v1sc
+Ported Model Hash : 508f55aaaa7aef6f5dd565f2a52e769d
+Ported Model Date : 1752491378 (2025/07/14)

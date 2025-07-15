@@ -1,0 +1,24 @@
+12.17.98
+
+This is the SnakeEyes model of G.I. Joe fame. Any of you whom may remember him, remember him as the biggest badass. Well, all you need to do is place this in your X:\Sierra\Half-Life\Valve\Models\Player\Snake directory. From there, run Half-Life and  select the new model. *Remember this is just the first version so far. I am working on a better one which uses the chrome texture (best described as the skin the female asassins use in the single player version of the game). Until then, enjoy it.
+
+             Kristofer Hall
+             Riot Software
+             http://www.contaminated.net/riot
+
+Thanks to PlanetHalfLife and Joost for all of the support, Valve for one of the best games Ive ever played and the HalfLife community...you guys rock!
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : snake1
+Source Model Hash : 7eee71ab617ec9faf7324f92207b5e9c
+Source Model Date : 1591303650 (2020/06/04)
+
+Ported Model Name : snake1_v1sc
+Ported Model Hash : d300c46b42cc25272275595b6163dafd
+Ported Model Date : 1752492285 (2025/07/14)

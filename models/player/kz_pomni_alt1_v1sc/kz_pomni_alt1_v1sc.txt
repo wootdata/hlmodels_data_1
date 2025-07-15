@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kz_pomni_alt1
+Source Model Hash : 3764a343283c90d9d5ea77c41883edf5
+Source Model Date : 1698677927 (2023/10/30)
+
+Ported Model Name : kz_pomni_alt1_v1sc
+Ported Model Hash : 33e6f41959c8410d234081568293c1ee
+Ported Model Date : 1752491929 (2025/07/14)

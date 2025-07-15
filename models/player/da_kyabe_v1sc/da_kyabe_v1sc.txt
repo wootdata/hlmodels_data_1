@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : da_kyabe
+Source Model Hash : 069c23b7de196f529ec58832402b8f68
+Source Model Date : 1579695894 (2020/01/22)
+
+Ported Model Name : da_kyabe_v1sc
+Ported Model Hash : 3c296f916d1f93708fb299f80bc873bb
+Ported Model Date : 1752491586 (2025/07/14)

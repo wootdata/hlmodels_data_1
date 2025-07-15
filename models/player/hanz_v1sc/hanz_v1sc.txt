@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hanz
+Source Model Hash : 8f85d73436a008973bd3a67807b75129
+Source Model Date : 1268804306 (2010/03/16)
+
+Ported Model Name : hanz_v1sc
+Ported Model Hash : e00c041543f397ef52d3813817684a2b
+Ported Model Date : 1752491768 (2025/07/14)

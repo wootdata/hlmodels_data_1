@@ -1,0 +1,22 @@
+URGENT NOTICE: anyone caught using admin skins will be banned on the spot for 40 - 60 min no questions asked.
+
+  if you wish to use new models public models are Offered.
+  visit  http://skip.to/hellzkitchen   
+                and click on Model replacements.
+ - 
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : adminpaint_v2
+Source Model Hash : afe48c0724f6a6e35c8f40ddefca7b05
+Source Model Date : 1583609064 (2020/03/07)
+
+Ported Model Name : adminpaint_v2sc
+Ported Model Hash : c7ab7a05e413bcda18979e101d654563
+Ported Model Date : 1752491332 (2025/07/14)

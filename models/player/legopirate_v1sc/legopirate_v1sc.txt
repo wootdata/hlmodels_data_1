@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : legopirate
+Source Model Hash : f364450bc9210242f9db1543073e1e2c
+Source Model Date : 1429485358 (2015/04/19)
+
+Ported Model Name : legopirate_v1sc
+Ported Model Hash : a7f46a96b4af7608585e4dfd8881b135
+Ported Model Date : 1752491946 (2025/07/14)

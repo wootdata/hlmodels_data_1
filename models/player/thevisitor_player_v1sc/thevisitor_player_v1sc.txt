@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : thevisitor_player
+Source Model Hash : 379d55d80894debabd5ca7125e6e0ce9
+Source Model Date : 1573327852 (2019/11/09)
+
+Ported Model Name : thevisitor_player_v1sc
+Ported Model Hash : ae980f66e4668b266fe64550017eb6b2
+Ported Model Date : 1752492411 (2025/07/14)

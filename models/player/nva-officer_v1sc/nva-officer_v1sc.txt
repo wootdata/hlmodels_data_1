@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nva-officer
+Source Model Hash : f30fcdd93241b979bbf32ee97c908b88
+Source Model Date : 1265655682 (2010/02/08)
+
+Ported Model Name : nva-officer_v1sc
+Ported Model Hash : b9234b653858191edfdae264787fa663
+Ported Model Date : 1752492107 (2025/07/14)

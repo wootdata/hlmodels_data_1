@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : strike-force
+Source Model Hash : 8089b24b6656b1e5ec8e278b02eadf6b
+Source Model Date : 1591329168 (2020/06/04)
+
+Ported Model Name : strike-force_v1sc
+Ported Model Hash : 956518c629b9f55f8acaeb49cc1c9e8f
+Ported Model Date : 1752492349 (2025/07/14)

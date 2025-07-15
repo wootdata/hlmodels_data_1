@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sovnavy_1981ckzsd
+Source Model Hash : 1880f70820e93830e611d03ce39b986f
+Source Model Date : 1530995075 (2018/07/07)
+
+Ported Model Name : sovnavy_1981ckzsd_v1sc
+Ported Model Hash : a308dc9cb9b55eab16827f6bf9ec83ef
+Ported Model Date : 1752492303 (2025/07/14)

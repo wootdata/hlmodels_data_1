@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mlp_rdash
+Source Model Hash : a6750ac87831bd0c0d363c2ea4ea7ce2
+Source Model Date : 1491503468 (2017/04/06)
+
+Ported Model Name : mlp_rdash_v1sc
+Ported Model Hash : 0953ccb5fb4d4645b0fdb76292aa67e5
+Ported Model Date : 1752492036 (2025/07/14)

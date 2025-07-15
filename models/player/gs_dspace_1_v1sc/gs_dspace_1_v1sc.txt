@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gs_dspace_1
+Source Model Hash : c0c2c3624830cc98c3e5ad7ffc0140c0
+Source Model Date : 1460549804 (2016/04/13)
+
+Ported Model Name : gs_dspace_1_v1sc
+Ported Model Hash : ecb4c91acf3ea9df1697f1cb82ea7780
+Ported Model Date : 1752491746 (2025/07/14)

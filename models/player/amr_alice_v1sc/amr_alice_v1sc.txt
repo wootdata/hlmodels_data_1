@@ -1,0 +1,23 @@
+Credit:
+
+Character by Electronic arts (American McGee)
+
+MMD model made by 0-0-alice-0-0
+http://0-0-alice-0-0.deviantart.com/art/MMD-Alice-DL-322386449
+
+modified and converted to .mdl by takedeppo.50cal ....(^^;)b yay
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : amr_alice
+Source Model Hash : d7cb75dcdab4ae039a98d706dc638465
+Source Model Date : 1461417675 (2016/04/23)
+
+Ported Model Name : amr_alice_v1sc
+Ported Model Hash : 9dc2e7f49e7794f2368bdb82eef66b70
+Ported Model Date : 1752491360 (2025/07/14)

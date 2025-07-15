@@ -1,0 +1,16 @@
+female
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nekomata_ahl_v2
+Source Model Hash : b9ad1902f54d87ce4405d0715f745368
+Source Model Date : 1583399804 (2020/03/05)
+
+Ported Model Name : nekomata_ahl_v2sc
+Ported Model Hash : f52343b9a3395453205fc3f91a8de9e4
+Ported Model Date : 1752492079 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hololive_korone-c2_v2
+Source Model Hash : 8dccfbd0b66c64843c4768ab06a059fb
+Source Model Date : 1702328281 (2023/12/11)
+
+Ported Model Name : holo_korone-c2_v2sc
+Ported Model Hash : f4b9c8a3634fe81a35f5a723d2c281ed
+Ported Model Date : 1752491823 (2025/07/14)

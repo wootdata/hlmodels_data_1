@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : asianpunk_cscz
+Source Model Hash : e61f683975b22bae501581219322e80a
+Source Model Date : 1269246652 (2010/03/22)
+
+Ported Model Name : asianpunk_cscz_v1sc
+Ported Model Hash : dfc53650a89207c1277221ac9bb6076b
+Ported Model Date : 1752491380 (2025/07/14)

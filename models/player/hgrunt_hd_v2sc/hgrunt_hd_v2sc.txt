@@ -1,0 +1,22 @@
+Name of model: HL Helmetted Grunt
+Model filename:[b]hgrunt[/b]
+Model Type: Player (SC3 animated) 
+Drawn Polys: 3,150
+Original Mesh: Ambient.Impact
+Player Conversion: R@p7oR
+SC3 Animations: R@p7oR
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hgrunt_hd_v2
+Source Model Hash : 05dbf8cf8aaa6870fcac72c1a5d81b48
+Source Model Date : 1269092649 (2010/03/20)
+
+Ported Model Name : hgrunt_hd_v2sc
+Ported Model Hash : cb26cf2a4115889abae9a6186d08b55e
+Ported Model Date : 1752491793 (2025/07/14)

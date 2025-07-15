@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vegetaca
+Source Model Hash : 658228495067224be5fe18a89e42f511
+Source Model Date : 1262884234 (2010/01/07)
+
+Ported Model Name : vegetaca_v1sc
+Ported Model Hash : dff1cbfd15dba9afc10e974e0d9f2ff8
+Ported Model Date : 1752492490 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : smashd004
+Source Model Hash : ed0cd082da4a33ef71dbdd3f0a195d48
+Source Model Date : 1481591412 (2016/12/12)
+
+Ported Model Name : smashd004_v1sc
+Ported Model Hash : a822d117e52eff55cbb90e2f5d93ddaa
+Ported Model Date : 1752492281 (2025/07/14)

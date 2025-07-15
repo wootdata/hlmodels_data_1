@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : memphis
+Source Model Hash : 7ff83312219f1bbdfd3d1063e1d2ada4
+Source Model Date : 1465827724 (2016/06/13)
+
+Ported Model Name : memphis_v1sc
+Ported Model Hash : f259dd63a4adafea65671d14b11eabb6
+Ported Model Date : 1752492001 (2025/07/14)

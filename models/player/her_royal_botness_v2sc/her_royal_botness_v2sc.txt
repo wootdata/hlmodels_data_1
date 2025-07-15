@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : her_royal_botness_v2
+Source Model Hash : bcb5f94c340b77785ed5b4c17b04ab71
+Source Model Date : 1583057503 (2020/03/01)
+
+Ported Model Name : her_royal_botness_v2sc
+Ported Model Hash : f72bb0262886544705fe0ae02ca20201
+Ported Model Date : 1752491784 (2025/07/14)

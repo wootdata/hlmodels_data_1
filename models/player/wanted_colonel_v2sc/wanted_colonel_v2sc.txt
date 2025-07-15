@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wanted_colonel_v2
+Source Model Hash : 0044de62089ec170539ee2401bd233eb
+Source Model Date : 1528090893 (2018/06/03)
+
+Ported Model Name : wanted_colonel_v2sc
+Ported Model Hash : aa4b89cd1bb9e7d66668446d25d155de
+Ported Model Date : 1752492502 (2025/07/14)

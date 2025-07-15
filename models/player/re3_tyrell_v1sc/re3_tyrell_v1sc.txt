@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re3_tyrell
+Source Model Hash : 03932282bf5a63f34880715cd12c21aa
+Source Model Date : 1269246657 (2010/03/22)
+
+Ported Model Name : re3_tyrell_v1sc
+Ported Model Hash : 5278eae6c6da0036011244593c5f85fb
+Ported Model Date : 1752492191 (2025/07/14)

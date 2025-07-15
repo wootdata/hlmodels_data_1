@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : desert2
+Source Model Hash : 91d4eac9c26a178f920ba31a75596ae7
+Source Model Date : 1266937388 (2010/02/23)
+
+Ported Model Name : desert2_v1sc
+Ported Model Hash : e08b5e8d7bf78b222c8881460770f022
+Ported Model Date : 1752491594 (2025/07/14)

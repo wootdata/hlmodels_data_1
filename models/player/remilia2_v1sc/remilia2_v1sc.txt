@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : remilia2
+Source Model Hash : 44d822c56ba5be37eb8711e561b57b81
+Source Model Date : 1458602736 (2016/03/21)
+
+Ported Model Name : remilia2_v1sc
+Ported Model Hash : f933a6f384f861a417fc7793b2dcc3e1
+Ported Model Date : 1752492198 (2025/07/14)

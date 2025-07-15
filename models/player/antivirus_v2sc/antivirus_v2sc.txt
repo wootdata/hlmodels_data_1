@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : antivirus_v2
+Source Model Hash : 677ff601744b5be2807044d669de9462
+Source Model Date : 1539896150 (2018/10/18)
+
+Ported Model Name : antivirus_v2sc
+Ported Model Hash : c31ac6eb79646347851f036272afeedd
+Ported Model Date : 1752491363 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : adminman
+Source Model Hash : 4f936c9abd4352938a88783df5a31535
+Source Model Date : 1431195026 (2015/05/09)
+
+Ported Model Name : adminman_v1sc
+Ported Model Hash : 92372209ee6f158b9a1247f9ea9dfa88
+Ported Model Date : 1752491332 (2025/07/14)

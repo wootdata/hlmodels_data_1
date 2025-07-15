@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : darkr
+Source Model Hash : 0b51387f130e64bda6c8e2130280ad0c
+Source Model Date : 1266842829 (2010/02/22)
+
+Ported Model Name : darkr_v1sc
+Ported Model Hash : 06be3f1611bed77e204d4ad1dbf178df
+Ported Model Date : 1752491579 (2025/07/14)

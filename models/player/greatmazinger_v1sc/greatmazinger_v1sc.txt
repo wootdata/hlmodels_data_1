@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : greatmazinger
+Source Model Hash : 9708847c6d7c9b3fac3ba0f34606d206
+Source Model Date : 1507149329 (2017/10/04)
+
+Ported Model Name : greatmazinger_v1sc
+Ported Model Hash : a91c73c23ea97a66ac32938885ca4643
+Ported Model Date : 1752491737 (2025/07/14)

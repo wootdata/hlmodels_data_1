@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : k9blue_v2
+Source Model Hash : 4bae45b50fe7fd8aaaca3e4e4b69541c
+Source Model Date : 1583650440 (2020/03/07)
+
+Ported Model Name : k9blue_v2sc
+Ported Model Hash : 61569352eebba371ac56782416acb8ed
+Ported Model Date : 1752491867 (2025/07/14)

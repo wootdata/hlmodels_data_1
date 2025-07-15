@@ -1,0 +1,31 @@
+Created by Hanno Hagedorn (Der digge Säg)
+Hagedorn@osnabrueck.netsurf.de
+
+Will Smith from M.I.B.
+
+Excuse me he is a little Hunchback because I used the Model of Gorden
+and Gorden have a Suit with a little Backpack.
+
+
+Peace2:Emperor,Batman,LordCornulio,TerranTriebtäter
+
+NOPeace2:The Ashole Heddi,The silly Marko ''Dr. Fred/Viper'' 
+
+Copy into   Half-Life/valve/models/Player/folder
+
+Have fun.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : will_v2
+Source Model Hash : bf075fb1ce32a4dc05e161e61b9fcfb6
+Source Model Date : 1591255861 (2020/06/04)
+
+Ported Model Name : will_v2sc
+Ported Model Hash : a7e8cf3c2440bcd60d18862fd1550674
+Ported Model Date : 1752492509 (2025/07/14)

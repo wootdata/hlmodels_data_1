@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : anonymous_hacker
+Source Model Hash : ba14cbce1708ef71290191b56af0cbd8
+Source Model Date : 1526993122 (2018/05/22)
+
+Ported Model Name : anonymous_hacker_v1sc
+Ported Model Hash : 251547e665933b0db96d40db61c9fea3
+Ported Model Date : 1752491363 (2025/07/14)

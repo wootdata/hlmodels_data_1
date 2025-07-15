@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : konata_small
+Source Model Hash : 69e78b798efa6ad4e110545d8ee7066c
+Source Model Date : 1429480765 (2015/04/19)
+
+Ported Model Name : konata_small_v1sc
+Ported Model Hash : d552f6b4401d9fa1f0f7c3bda074c7e2
+Ported Model Date : 1752491908 (2025/07/14)

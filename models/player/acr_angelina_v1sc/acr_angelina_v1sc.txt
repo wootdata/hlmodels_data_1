@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : acr_angelina
+Source Model Hash : 7d06eb8ab03d5b60e5a1826f85546a46
+Source Model Date : 1424772836 (2015/02/24)
+
+Ported Model Name : acr_angelina_v1sc
+Ported Model Hash : b25bcc7da217a0ad8eaf1eb77e39b830
+Ported Model Date : 1752491330 (2025/07/14)

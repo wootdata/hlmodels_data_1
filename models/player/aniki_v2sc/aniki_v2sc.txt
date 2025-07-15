@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aniki_v2
+Source Model Hash : f2cc8217b45a050bcbaf2fc39dda67c9
+Source Model Date : 1582155508 (2020/02/19)
+
+Ported Model Name : aniki_v2sc
+Ported Model Hash : 642b0f5ba021a19f33440d4fea932336
+Ported Model Date : 1752491363 (2025/07/14)

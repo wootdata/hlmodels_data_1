@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : josaphine
+Source Model Hash : 8f37a3d993bf9c73df1d266d1f323158
+Source Model Date : 1263929621 (2010/01/19)
+
+Ported Model Name : josaphine_v1sc
+Ported Model Hash : bf75a56d95ff45d4f1be5e5cfc64df18
+Ported Model Date : 1752491865 (2025/07/14)

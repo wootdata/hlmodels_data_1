@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : swat_nvg_desert
+Source Model Hash : 38285a657cdf0eb5a41186ef59a04b50
+Source Model Date : 1676600250 (2023/02/16)
+
+Ported Model Name : swat_nvg_desert_v1sc
+Ported Model Hash : 90e8570a4ba1c8ff0fd180a7a3f73f75
+Ported Model Date : 1752492355 (2025/07/14)

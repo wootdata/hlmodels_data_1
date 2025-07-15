@@ -1,0 +1,22 @@
+Model originally done by A.I as a friendly Assassin.
+
+Converted into a SvenCoop 3.0 Player Model by Raging_Wulf, uses some Animations from the Opposing Force Fassn Player Model, so Credits goes to Gearbox as well.
+
+I think that's it.
+
+Complaints goes here: Iwontcareaboutyourcomplaints@hotmail.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fassn2_v2
+Source Model Hash : 3446c07c67c3691b5c002aab6dd31baf
+Source Model Date : 1583836437 (2020/03/10)
+
+Ported Model Name : fassn2_v2sc
+Ported Model Hash : 175ce4506ca0d470ca6fb2e36711797e
+Ported Model Date : 1752491644 (2025/07/14)

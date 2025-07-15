@@ -1,0 +1,19 @@
+Main model - ZP team
+Camo = Gearbox
+Reskin = _CiviliaN^SoldieR_
+Anim Transfer: CyborgDragon
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : civ_undead2
+Source Model Hash : 7c69f1a1a0ee7476f03932e597aa88a7
+Source Model Date : 1266821481 (2010/02/21)
+
+Ported Model Name : civ_undead2_v1sc
+Ported Model Hash : 76dafa03829a731836a0ff7eeebe75e0
+Ported Model Date : 1752491478 (2025/07/14)

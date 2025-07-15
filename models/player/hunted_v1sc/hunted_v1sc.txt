@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hunted
+Source Model Hash : f48ef12cfa58cfce9f2c0d40050eb40c
+Source Model Date : 1269105815 (2010/03/20)
+
+Ported Model Name : hunted_v1sc
+Ported Model Hash : 83e2e081f5f20effabf70fbe1b7b52e9
+Ported Model Date : 1752491837 (2025/07/14)

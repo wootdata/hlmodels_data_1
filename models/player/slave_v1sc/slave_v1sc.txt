@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : slave
+Source Model Hash : 669f900bc6f1f813ef687382747c7ab0
+Source Model Date : 1269867516 (2010/03/29)
+
+Ported Model Name : slave_v1sc
+Ported Model Hash : 54b3f77d4dc31c8d9f429871e8ab26f8
+Ported Model Date : 1752492280 (2025/07/14)

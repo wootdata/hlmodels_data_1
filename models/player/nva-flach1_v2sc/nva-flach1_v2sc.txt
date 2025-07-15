@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nva-flach1_v2
+Source Model Hash : 58c50548ad148493ec286332d9801d6f
+Source Model Date : 1538092302 (2018/09/27)
+
+Ported Model Name : nva-flach1_v2sc
+Ported Model Hash : a1b75ebb3bc98dd8cca884fc24261809
+Ported Model Date : 1752492107 (2025/07/14)

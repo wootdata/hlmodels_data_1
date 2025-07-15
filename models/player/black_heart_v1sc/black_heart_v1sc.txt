@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : black_heart
+Source Model Hash : f20bdab2556dffea1736663b895104dd
+Source Model Date : 1546247738 (2018/12/31)
+
+Ported Model Name : black_heart_v1sc
+Ported Model Hash : 4adc9ad1fcb45269e64f47cf1019189b
+Ported Model Date : 1752491434 (2025/07/14)

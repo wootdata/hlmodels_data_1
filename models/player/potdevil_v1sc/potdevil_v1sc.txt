@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : potdevil
+Source Model Hash : fb1f408f5e07d35952fed9b054a27519
+Source Model Date : 1590989041 (2020/05/31)
+
+Ported Model Name : potdevil_v1sc
+Ported Model Hash : 40a1c126fcb3864e90b16bcd33fc81ba
+Ported Model Date : 1752492164 (2025/07/14)

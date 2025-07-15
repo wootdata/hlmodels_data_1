@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dgf_viola
+Source Model Hash : e1e250a996d0a9fd74158ba2eee1c4c6
+Source Model Date : 1375560697 (2013/08/03)
+
+Ported Model Name : dgf_viola_v1sc
+Ported Model Hash : e47f196d0f0430e35ca72d0519f6effa
+Ported Model Date : 1752491597 (2025/07/14)

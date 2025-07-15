@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hoe_sog1
+Source Model Hash : f526ff9d6f8d0266db59c3ba8bb4c4b6
+Source Model Date : 1236542210 (2009/03/08)
+
+Ported Model Name : hoe_sog1_v1sc
+Ported Model Hash : e23d5552acc7ce9b5436840f4b45d24a
+Ported Model Date : 1752491812 (2025/07/14)

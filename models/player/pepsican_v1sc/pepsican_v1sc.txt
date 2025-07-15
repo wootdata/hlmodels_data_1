@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pepsican
+Source Model Hash : 166a744f76cdea5c92b831baf1272d37
+Source Model Date : 1459202857 (2016/03/28)
+
+Ported Model Name : pepsican_v1sc
+Ported Model Hash : 439cf50d997d0aab7cf04dbd3dc86eae
+Ported Model Date : 1752492154 (2025/07/14)

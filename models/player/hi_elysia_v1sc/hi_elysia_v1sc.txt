@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hi_elysia
+Source Model Hash : 5f8dd1523a363a341fb8e4317cfaaeb8
+Source Model Date : 1750566661 (2025/06/21)
+
+Ported Model Name : hi_elysia_v1sc
+Ported Model Hash : 5393a407f58d8fd6942bf7b84baf120c
+Ported Model Date : 1752491799 (2025/07/14)

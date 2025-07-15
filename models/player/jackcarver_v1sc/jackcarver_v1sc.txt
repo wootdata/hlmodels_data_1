@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jackcarver
+Source Model Hash : 0f387223d38a6e2d242b06a50809a2b1
+Source Model Date : 1237151172 (2009/03/15)
+
+Ported Model Name : jackcarver_v1sc
+Ported Model Hash : 9c45932d1a8f3274d0faffc7ac400703
+Ported Model Date : 1752491856 (2025/07/14)

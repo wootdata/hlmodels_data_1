@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : richard_aiken
+Source Model Hash : 11c989b326cf5a8b0c3b780dba7842a5
+Source Model Date : 1583729769 (2020/03/08)
+
+Ported Model Name : richard_aiken_v1sc
+Ported Model Hash : b88595c3071f28502a63be50f31ed30b
+Ported Model Date : 1752492216 (2025/07/14)

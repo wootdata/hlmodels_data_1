@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yorha_2b_scuttle_a2
+Source Model Hash : 37cd94e6ed6f60527f9803783a6e496c
+Source Model Date : 1649796046 (2022/04/12)
+
+Ported Model Name : yorha_2b_scuttle_v1sc
+Ported Model Hash : 187e3b4afa1be75d62ec18e9b3f05693
+Ported Model Date : 1752492522 (2025/07/14)

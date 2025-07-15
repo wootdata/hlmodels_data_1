@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re_outbreak_cindy
+Source Model Hash : e81d59f96366e8da649ab1c375e99b2a
+Source Model Date : 1236229370 (2009/03/04)
+
+Ported Model Name : re_outbreak_cindy_v1sc
+Ported Model Hash : 04a98d801a923514e654060a567bdca7
+Ported Model Date : 1752492209 (2025/07/14)

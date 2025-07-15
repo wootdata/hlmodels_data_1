@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gordon_stalker_v2
+Source Model Hash : d926a010d0cee8d6cc02005fb973f331
+Source Model Date : 1583048573 (2020/02/29)
+
+Ported Model Name : gordon_stalker_v2sc
+Ported Model Hash : 79b41bd2e1d5ffec4f244f9a08a108a4
+Ported Model Date : 1752491735 (2025/07/14)
