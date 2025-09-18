@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gf_ro635_toon
+Source Model Hash : c46e16d247e48b5647a9dc77562bcbd8
+Source Model Date : 1738239835 (2025/01/30)
+
+Ported Model Name : gf_ro635_toon_v1sc
+Ported Model Hash : 3ff24e735e2b95a804ab3c3fb56cc49d
+Ported Model Date : 1758225737 (2025/09/18)

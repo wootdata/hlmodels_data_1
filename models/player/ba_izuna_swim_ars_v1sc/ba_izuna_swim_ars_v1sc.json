@@ -138,7 +138,7 @@
 			"type": 8
 		}
 	],
-	"date": 1758223607,
+	"date": 1758225724,
 	"events": [
 		{
 			"event": 5004,
@@ -792,7 +792,7 @@
 	"modid": 14,
 	"name": "BA_Izuna_Bikini_AR.mdl",
 	"preview": false,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

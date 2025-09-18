@@ -238,7 +238,7 @@
 			"type": 8
 		}
 	],
-	"date": 1758223614,
+	"date": 1758225737,
 	"events": [
 		{
 			"event": 5004,
@@ -891,8 +891,8 @@
 	"metahook_ragdoll": false,
 	"modid": 14,
 	"name": "GF_Ro635_Toon.mdl",
-	"preview": false,
-	"readme": false,
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

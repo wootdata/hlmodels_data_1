@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 3rd_miko_0
+Source Model Hash : 27bbf121552960468fb724c52ce54990
+Source Model Date : 1740069991 (2025/02/20)
+
+Ported Model Name : 3rd_miko_0_v1sc
+Ported Model Hash : 2af5a0407914dbee49f4e9dca846205e
+Ported Model Date : 1758225716 (2025/09/18)
