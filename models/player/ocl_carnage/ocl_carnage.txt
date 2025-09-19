@@ -1,0 +1,13 @@
+#############################################
+#     Ordre des Corsaires de la Liberte     #
+#         http://www.corsaires.net          #
+#                                           #
+#              ocl_carnage.mdl              #
+#                                           #
+#          skin by [OCL]-Cuchulainn         #
+#          cuchulainn@corsaires.net         #
+#############################################
+
+This skin is based upon the spawn.mdl amazing model.
+Its the first version of [OCL] Carnage personnal skin.
+This was achieved on 23/05/99, have fun with it !

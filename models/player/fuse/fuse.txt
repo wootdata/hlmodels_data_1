@@ -1,0 +1,15 @@
+Skinner: SlimReapeR
+Skin Name: Fuse
+Model Used: Fuse modified punisher model. 
+
+
+
+Installation of Plugin
+
+Create a folder called fuse in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+

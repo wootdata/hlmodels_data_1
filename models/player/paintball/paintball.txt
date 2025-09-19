@@ -1,0 +1,13 @@
+paintball 1.0
+
+This skin is for all those paintball player's who want
+a real skin for killing. its based off my own JT camo's
+
+to install create a dir inside the player dir 
+called Paintball  and copy these files into it.
+
+
+Hopefully someone will make a paintball TC for HL
+if you make it and use this skin, please email me, I can
+addjust it accordingly
+Darkwolfdkk@hotmail.com	

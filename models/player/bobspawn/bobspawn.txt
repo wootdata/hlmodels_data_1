@@ -1,0 +1,16 @@
+Bobspawn Half-Life skin © Tyler "Bob The Evil Puppeteer" Huestis sandspider@home.com
+
+Release date: June 20 1999
+
+Description: The love child of me and Spawn. 
+	     	
+
+Installation: chuck all the files into C:\Sierra\Half-Life\Valve\models\player\bobspawn\
+
+copyrightcrap: This skin can be distributed freely as long as this text thingie is included, you may
+               put it in a mod or something like that as long as you get my permission and give me $20
+
+
+
+/end communication
+
