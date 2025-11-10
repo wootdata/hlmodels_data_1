@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : johnward_b
+Source Model Hash : 6621cf2b83fe84c2dc8ec630a9001401
+Source Model Date : 1758678746 (2025/09/23)
+
+Ported Model Name : johnward_b_v1sc
+Ported Model Hash : 63435c61259610e0c46aa88577350fef
+Ported Model Date : 1762777780 (2025/11/10)
