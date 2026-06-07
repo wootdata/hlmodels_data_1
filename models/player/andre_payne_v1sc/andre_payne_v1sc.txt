@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : andre_payne
+Source Model Hash : 751ea056ea04f12122b0ed90a3751496
+Source Model Date : 1744713090 (2025/04/15)
+
+Ported Model Name : andre_payne_v1sc
+Ported Model Hash : c82920454300f327a00b822254b1bcbf
+Ported Model Date : 1780823015 (2026/06/07)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : terriermon_cc
+Source Model Hash : 322559ad3e8ef1fb746d13e2e7779f2f
+Source Model Date : 1778445628 (2026/05/10)
+
+Ported Model Name : terriermon_cc_v1sc
+Ported Model Hash : ae75cfb62df8fa0efa6193c3bb1c0a74
+Ported Model Date : 1780823048 (2026/06/07)
